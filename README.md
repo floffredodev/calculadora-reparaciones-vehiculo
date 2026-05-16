@@ -20,7 +20,6 @@ Costo total de repuestos ($): 150
 Horas de mano de obra: 3
 Tarifa por hora de mano de obra ($): 12
 --------------------------------
-
 Resumen de la reparación:
 --------------------------------
 Costo de repuestos: $150.00
@@ -56,10 +55,10 @@ python3 --version
 git clone https://github.com/floffredodev/calculadora-reparaciones-vehiculo.git
 
 # 2. Entra a la carpeta
-cd calculadora-reparaciones
+cd calculadora-reparaciones-vehiculo
 
 # 3. Ejecuta el programa
-python3 calculadora_reparaciones.py
+py calculadora-reparaciones.py
 ```
 
 ---
